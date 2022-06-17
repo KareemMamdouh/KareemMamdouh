@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Kareem MAmdouh. <img width="20" src="./Hi.gif" /></h2>
+<h2>Hey there! I'm Kareem Mamdouh. <img width="20" src="./Hi.gif" /></h2>
 
 <p>I'm a senior Front-end web developer with 4 years of experience developing and delivering high-quality React applications for
 different market sectors, very interested in exploring, learning and applying every new technology​</p>
@@ -26,10 +26,10 @@ different market sectors, very interested in exploring, learning and applying ev
 
 <h3 align="center">Reach Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kareemmamdouh97/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/kareemmamdouh97/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kareem.mamdouh97@yahoo.com" target="_blank">
+  <a  target="_blank" href="mailto:kareem.mamdouh97@yahoo.com" >
     <img src="https://img.shields.io/badge/Drop Me A letter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
